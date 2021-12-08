@@ -39,7 +39,7 @@ const Footer = () => {
                              
                              <div className='info-text'>
                                  <h5>Phone</h5>
-                                 <p>(+880)1725502623</p>
+                                 <p>(+880)130853535432</p>
                              </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@ const Footer = () => {
                              
                              <div className='info-text'>
                                  <h5>Email</h5>
-                                 <p>khannirub55@gmail.com</p>
+                                 <p>trail@gamil.com</p>
                              </div>
                             </div>
                         </div>
@@ -108,7 +108,7 @@ const Footer = () => {
                              
                              <div className='info-text'>
                                  <h5>Location</h5>
-                                 <p>Narsingdi sador, Dhaka bangldesh</p>
+                                 <p>Dhaka bangldesh</p>
                              </div>
                             </div>
                         </div>            

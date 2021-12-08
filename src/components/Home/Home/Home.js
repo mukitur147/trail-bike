@@ -23,9 +23,9 @@ const Home = () => {
             <HomeServices></HomeServices>
             <OurSkills></OurSkills>
             <Detailes></Detailes>
-            <PlayNowVideo></PlayNowVideo>
-            <Reviews></Reviews>
-            <Claint></Claint>
+          
+            {/* <Reviews></Reviews> */}
+            {/* <Claint></Claint> */}
             <NewsArticle></NewsArticle>
             <Footer></Footer>
         </div>
