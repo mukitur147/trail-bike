@@ -1,6 +1,6 @@
-# Trial Bike Shop
+# Trail Bike Shop
 
- # Trial Bike Shop [Live Site Link (demo website)](https://trial-bike-shop.web.app/).
+
 
 
 ## Available information 2
